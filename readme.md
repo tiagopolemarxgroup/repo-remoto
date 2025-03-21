@@ -10,3 +10,4 @@ Curso sobre versionamento de codigos comandos basicos para o dia a dia.
 - [Documentation Git](http://Github.com)
 - [Blog sobre Git](http://Github.com)
 - [Comandos essenciais git](comandos.com)
+- [Comandos avancados](comandos.com)
