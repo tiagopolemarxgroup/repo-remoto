@@ -9,3 +9,4 @@ Curso sobre versionamento de codigos comandos basicos para o dia a dia.
 - [DIGITAL INOVATION ONE] (DIO.ME)
 - [Documentation Git](http://Github.com)
 - [Blog sobre Git](http://Github.com)
+- [Comandos essenciais git](comandos.com)
