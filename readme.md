@@ -12,9 +12,8 @@ Curso sobre versionamento de codigos comandos basicos para o dia a dia.
 - [Comandos essenciais git](comandos.com)
 - [Comandos avancados](comandos.com)
 
-...
+'''
  git commit
- git push
 ...
 
 Antes de tudo
