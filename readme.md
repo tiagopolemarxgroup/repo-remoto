@@ -16,3 +16,9 @@ Curso sobre versionamento de codigos comandos basicos para o dia a dia.
  git commit
  git push
 ...
+
+Antes de tudo
+
+repo local
+
+agora vai ficar interessante
